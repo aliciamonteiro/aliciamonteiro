@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-Olá! Me chamo Alicia Monteiro e sou estudante na Universidade do Estado do Rio Grande do Norte (UERN). Tenho grande interesse por tecnologia e estou sempre em busca de aprender mais sobre desenvolvimento web/mobile, banco de dados, ciência de dados e otimização de sistemas e processos. 
+Olá! Sou estudante na Universidade do Estado do Rio Grande do Norte (UERN). Tenho grande interesse por tecnologia e estou sempre em busca de aprender mais sobre desenvolvimento web/mobile, banco de dados, ciência de dados e otimização de sistemas e processos. 
 
 Atualmente, estou explorando e desenvolvendo projetos acadêmicos e pessoais, buscando expandir meus conhecimentos na área.
 
